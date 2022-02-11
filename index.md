@@ -1,4 +1,4 @@
-## Medical Doctor MD. App
+## Medical Doctor "MD" App
 
 # Users
 
